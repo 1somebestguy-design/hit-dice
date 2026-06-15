@@ -15,5 +15,7 @@
   "esmodules": ["scripts/main.js"],
   "styles": ["styles/hit-dice-roller.css"],
   "languages": [],
-  "flags": {}
+  "flags": {},
+  "manifest": "https://raw.githubusercontent.com/1somebestguy-design/hit-dice/main/hit-dice-roller/module.json",
+  "download": "https://github.com/1somebestguy-design/hit-dice/raw/main/hit-dice-roller.zip"
 }
