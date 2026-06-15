@@ -1,0 +1,19 @@
+{
+  "id": "hit-dice-roller",
+  "title": "Hit Dice Roller",
+  "description": "Adds a button to the D&D 5e character sheet to roll Hit Dice (d8 or d12) separately, spending them from the character's available pool.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Custom Module"
+    }
+  ],
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/hit-dice-roller.css"],
+  "languages": [],
+  "flags": {}
+}
